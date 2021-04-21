@@ -2,4 +2,6 @@
 
 Aspiring Software Developer - Philadelphia, PA
 
-Current: Java Student @ Tech Elevator
+Graduated Tech Elevator 14 week Java Development Bootcamp - Apr 2021
+
+https://www.linkedin.com/in/robertebrumbaugh/
